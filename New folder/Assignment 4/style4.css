@@ -1,0 +1,36 @@
+
+body {
+	background-color:rgb(242, 242, 242);
+}
+
+
+h2 {
+	 font-family:Hachi Maru Pop;
+}
+img{
+	
+	 height:190px;
+	 width:100;
+	 padding:15px;
+}
+
+table{
+
+     margin-left:670px;
+     margin-right:670px;
+
+  }
+
+  th {
+	 margin:70px;
+    
+     text-align:left;
+     text-align:center;
+ 
+ }
+  td {
+	 font-family:Play;
+	
+	 text-align:left;
+}
+

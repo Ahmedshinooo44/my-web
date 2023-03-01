@@ -1,0 +1,55 @@
+ body {
+ background-color:rgb(255, 230, 255);
+ 
+ }
+
+ p  {
+ 	 font-family:"Hachi Maru Pop";
+     padding-left: 20%;
+     padding-right: 20%;
+     padding-top:1%;
+	
+ }
+ h2 {
+	 color:white;
+     font-size:45px;	
+     font-family: "Sofia";	 
+	 background-image: url("https://img.huffingtonpost.com/asset/5eab310824000054028ea0c2.jpeg?cache=3aKWSTf8Yx&ops=scalefit_720_noupscale");
+	 background-repeat: no-repeat ;
+	 background-attachment: fixed;
+	 background-size: cover ;
+	 padding: 12%
+
+	 
+ }
+h1 {
+  font-family: "Audiowide"
+}
+button {
+background:black; 
+height:50px;
+width:220px;
+font-family:Hanalei Fill;
+font-size:140%;
+color:white;"
+}
+
+hr {
+	color:rgb(255, 179, 255)
+}
+pre {
+	color:black;
+    font-size:40px;
+
+}
+
+h4 {
+	color:black;
+	font-size:35px;
+	font-family:Lobster;
+	background-color:rgb(255, 213, 247);
+	background-size: cover ;
+	padding: 40px 1px 150px 1px ;
+	margin:1px
+	
+}

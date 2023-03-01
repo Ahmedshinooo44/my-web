@@ -1,0 +1,23 @@
+
+body {
+	
+}background-color:white;
+
+h2 {
+	 font-family:Hachi Maru Pop;
+}
+img{
+	
+	 height:190px;
+	 width:100;
+	 padding:00px;
+}
+
+td {
+width:100px;
+ text-align:center;
+}
+ table, th {
+     border: 1px solid rgb(242, 242, 242);
+     border-collapse: collapse;
+ }

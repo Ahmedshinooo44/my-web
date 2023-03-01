@@ -1,0 +1,77 @@
+body{
+     text-align:center;
+     background-color:white;
+     font-family:Montserrat;
+     
+}
+
+
+header{
+     background-color:white;
+     font-size:16px;
+}
+
+
+.tablehead {
+     padding-bottom:15px;
+     padding-top:15px;
+}
+
+
+.var
+{
+     color:white;	
+     font-family: "Montserrat";	 
+	 background-image: url("slide2.jpg");
+	 background-repeat: no-repeat ;
+	 background-attachment: fixed;
+	 background-size: cover ;
+	 padding: 19%;
+ 
+ }
+.1pic{
+     padding:49%;
+
+}
+.phones{
+      text-align:left;
+      background-color:white;
+      padding:80px 80px 60px;
+      background-image: url(pattern1.png);
+      background-repeat: no-repeat;
+      background-size: cover;
+   	  width:50%;
+
+}
+	
+.h1 {
+	 
+	 font-size:45px;
+}
+
+.butto {
+     background:black; 
+     height:50px;
+     width:220px;
+     font-size:140%;
+     color:white;
+}
+.but{
+	float:right;
+	 background:white; 
+     height:50px;
+     width:220px;
+     font-size:140%;
+     color:black;
+	
+}
+  .buty{
+text-align:center;
+font-size:40px;
+color:white;
+background-color:white;
+border-color:rgb(77, 132, 255);
+border-radius:20px;
+border-style: solid;
+float:right;
+}

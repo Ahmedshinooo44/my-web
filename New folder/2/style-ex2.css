@@ -1,0 +1,94 @@
+  *{
+	font-family:Montserrat;
+}
+
+.navbar {
+	width: 100%;
+	background-color: rgb(71, 93, 104);
+	overflow: auto;
+	position: fixed;
+}
+
+.navbar a {
+	float: left;
+	padding: 15px 25px 12px 20px;
+	color: white;
+	text-decoration: none;
+	font-size: 17px;
+}
+
+.navbar a:hover {
+	background-color: white;
+	color:black;
+}
+
+.active {
+	background-color: rgb(58, 77, 86);
+}
+
+
+
+.bottoms-post{
+	background-color:rgb(86, 107, 117);
+	color:white;
+	padding:10px;
+}
+ 
+.buttoms1{
+	background-color:rgb(86, 107, 117);
+	color:white;
+	height:45px;
+	text-align:left;
+}
+
+.shadow-vip1{
+	box-shadow: 0px 0px 10px 3px rgba(142, 141, 141,0.5), 0px 0px 10px 4px rgba(142, 141, 141,0.5);
+	border:1px solid rgb(142, 141, 141);
+	text-align:left;
+	margin-top:20px
+}
+
+ .shadow-vip2{
+	margin-top:20px;
+	border:1px solid rgb(142, 141, 141);
+	padding:15px; 
+	box-shadow: 0px 0px 10px 3px rgba(142, 141, 141,0.5), 0px 0px 10px 4px rgba(142, 141, 141,0.5);
+ }
+
+.shadow-vip3{
+	box-shadow: 0px 0px 10px 3px rgba(142, 141, 141,0.5), 0px 0px 10px 4px rgba(142, 141, 141,0.5);
+	border:1px solid rgb(142, 141, 141);
+	padding:15px 0px 15px 0px;
+	margin-top:20px;
+
+}
+.inform{
+	text-align:left;
+	padding-left:15px
+
+}
+.name-pro{
+	text-align:left;
+	padding-left:80px;
+}
+.ads{
+	padding:40px;
+	margin-top:20px;
+	box-shadow: 0px 0px 10px 3px rgba(142, 141, 141,0.5), 0px 0px 10px 4px rgba(142, 141, 141,0.5);
+	border:1px solid rgb(142, 141, 141);
+	font-size:30px;
+}
+.btm-freind{
+	padding:10px 40px 10px 40px;
+	color:white;
+	opacity: 0.5;
+}
+.like{
+	text-align:left;
+	padding-top:10px;
+}
+.footer-end{
+	padding:16px;background-color:rgb(48, 62, 69);
+	text-align:left;
+	color:white;
+}
